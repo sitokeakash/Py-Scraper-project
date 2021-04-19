@@ -1,0 +1,4 @@
+Stock name,Current price,Previous Close,Open,Bid,Ask,Day Range,52 Week Range,Volume,Avg. Volume	
+International Business Machines Corporation (IBM),123.53,124.27,125.32,123.75 x 800,124.89 x 3000,123.47 - 126.24,90.56 - 158.75,"4,565,507","5,613,645"
+Alphabet Inc. (GOOG),"1,760.06","1,781.77","1,775.00","1,760.20 x 1200","1,764.50 x 1100","1,757.21 - 1,797.39","1,013.54 - 1,847.20","1,360,385","1,705,960"
+Midatech Pharma plc (MTP),1.9600,1.9500,1.9400,1.9000 x 1200,0.0000 x 800,1.9000 - 2.0200,0.8620 - 7.0700,"158,646","400,446"
